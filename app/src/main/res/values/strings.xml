@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blue Wi-Fi</string>
+
+    <string name="add_new_wifi">Add New Wi-Fi</string>
+    <string name="dropdown_share">share</string>
+    <string name="dropdown_remove">remove</string>
+    <string name="remove_warning_message">Are you sure you want to delete this Wifi?</string>
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+    <string name="saved_wifis_title">Saved Wi-Fi</string>
+</resources>

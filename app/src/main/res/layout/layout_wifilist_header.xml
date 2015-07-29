@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="@dimen/medium_padding">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_pressable_height"
+        android:background="@drawable/rounded_rectangle"
+        android:gravity="center"
+        android:text="@string/add_new_wifi"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/medium_text"/>
+</RelativeLayout>
